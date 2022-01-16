@@ -1,5 +1,5 @@
 # AuthExample
-This is a project that shows how to authenticate users through every request and also by using websockets.
+This is a client and server project that shows how to authenticate users through every request and also by using websockets.
 
 Technologies used:
 
