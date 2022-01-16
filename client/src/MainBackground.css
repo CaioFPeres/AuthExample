@@ -1,0 +1,7 @@
+.MainBackground{
+    display: block;
+    overflow: auto;
+    background-color: rgb(52, 171, 207);
+    width: 100%;
+    min-height: 100vh;
+}

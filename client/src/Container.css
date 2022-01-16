@@ -1,0 +1,23 @@
+.container{
+    display: block;
+    background-color: white;
+    margin-top: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+
+    
+    text-align: center;
+    width: auto;
+    height: auto;
+    max-width: 300px;
+    min-width: 240px;
+
+    box-shadow: 10px 10px #00000096;
+    border-radius: 10px;
+}

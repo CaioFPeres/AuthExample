@@ -1,0 +1,36 @@
+.inputText{
+    font-family: Poppins,sans-serif;
+    text-align: left;
+    margin-left: 13px;
+    font-size: 21px;
+}
+
+.userInput{
+    margin-bottom: 30px;
+    margin-top: 10px;
+    max-width: 270px;
+
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+
+    border: 0px;
+    border-bottom: 1px solid rgb(104, 104, 104);
+}
+
+.userInput::placeholder{
+    color: rgb(0, 0, 0);
+    opacity: 1;
+}
+
+.register{
+    display: block;
+    text-align: right;
+    margin-right: 13px;
+    color: rgb(59, 59, 59);
+    text-decoration: none;
+}
+
+.register:hover{
+    color: rgb(0, 0, 0);
+}
